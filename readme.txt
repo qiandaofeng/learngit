@@ -5,5 +5,4 @@ i like it.
 do you like it?
 hoho~
 now add a new line
-now add a new line too
-heihei 
+now add a new line too 
